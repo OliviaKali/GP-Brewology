@@ -1,5 +1,12 @@
 # [Check out the Brewology Website](https://oliviakali.github.io/GP-Brewology/)
-# Brewology
+## Brewology - "Don't Worry, Beer Happy!"
+
+Brewology is an interactive app that connects beer and brewery information to the user based on their personality traits!
+
+The User can take a quick five minute assessment that outlines the personality traits based on the Big5: 
+<ol>
+<li>Openness</li>
+</ol>
 
 Brewology offers beer you would like based on a personality test and also works as a brewery locator.
 
