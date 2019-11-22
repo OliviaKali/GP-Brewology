@@ -1,3 +1,4 @@
+# [Check out the Brewology Website](https://oliviakali.github.io/GP-Brewology/)
 # Brewology
 
 Brewology offers beer you would like based on a personality test and also works as a brewery locator.
