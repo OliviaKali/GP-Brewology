@@ -400,7 +400,7 @@ $("#submit-btn").on("click", function (event) {
             <p>You are very open to new ideas and experiences. You love trying new things, tackling new challenges, 
             and thinking about abstract concepts.</p>
             <p>A sour would suit your need for something unique and adventurous. Outside the norm, sours have a higher 
-            ABV and such diverse flavors, they will surely keep you interested.</p>
+            ABV and incredible diverse flavors, they will surely keep you interested.</p>
             <a href="https://www.verywellmind.com/the-big-five-personality-dimensions-2795422">
             Click here to learn more about Big 5 Personality Traits</a>`
         )
