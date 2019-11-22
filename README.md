@@ -42,8 +42,10 @@ Website developed with HTML, CSS, and JavaScript. Libraries used JQuery, Bootstr
 Emily & William - HTML, CSS
 
 Vanessa & Olivia - JavaScript
-   Vanessa - Personality Test
-   Olivia - APIs
+<ul>
+   <li>Vanessa - Personality Test</li>
+   <li>Olivia - APIs</li>
+</ul>
 
 Team collobrated well while combining code to ensure functionality. 
 
