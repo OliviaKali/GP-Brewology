@@ -35,16 +35,15 @@ Giphy IDs used so specific gifs are attached with the specific results -->
 
 ### Technologies Used
 
-Website developed with HTML, CSS, and JavaScript.
-
-Libraries used JQuery, Bootstrap, Materialize, and Font-Awesome.
+Website developed with HTML, CSS, and JavaScript. Libraries used JQuery, Bootstrap, Materialize, and Font-Awesome.
 
 ## Team Roles
 
-HTML, CSS - Emily & William
-JavaScript - Vanessa & Olivia
-   Personality Test - Vanessa
-   APIs - Olivia
+Emily & William - HTML, CSS
+
+Vanessa & Olivia - JavaScript
+   Vanessa - Personality Test
+   Olivia - APIs
 
 Team collobrated well while combining code to ensure functionality. 
 
