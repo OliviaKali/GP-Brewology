@@ -33,16 +33,15 @@ Giphy IDs used so specific gifs are attached with the specific results -->
 
 ### Technologies Used
 
-
-The website uses the Giphy and Yelp APIS for a gif and brewery locator respectivley.
-Bootstrap, Materialize and Font-Awesome are used to layout the website as well as add buttons.
+Website developed with HTML, CSS, and JavaScript.
+Libraries used JQuery, Bootstrap, Materialize, and Font-Awesome.
 
 ## Features
 
 The personality quiz chooses a beer you might like based on your personality.
 Yelp API is used to find nearby brewery's.
 
-# Code
+<!-- # Code
 
    # landing
    
@@ -82,7 +81,7 @@ Calculates conscientiousness by addig the third and eigth prompts.
 calculates neuroticism by adding the fourth and ninth prompts.
 Calcualtes the openess by adding the fifth and tenth promps.
 Each trait's final weight can be scored from a possible 2 to 10.
-The highest trait is used to make the recommendation. Each trait is linked to a beer.
+The highest trait is used to make the recommendation. Each trait is linked to a beer. -->
 
 
 # Credits
