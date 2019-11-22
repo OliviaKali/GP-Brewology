@@ -4,18 +4,40 @@
 Brewology is an interactive app that connects beer and brewery information to the user based on their personality traits!
 
 The User can take a quick five minute assessment that outlines the personality traits based on the Big5: 
+
 <ol>
 <li>Openness</li>
+<li>Conscientiousness</li>
+<li>Extraversion</li>
+<li>Agreeableness</li>
+<li>Neuroticism</li>
 </ol>
 
-Brewology offers beer you would like based on a personality test and also works as a brewery locator.
+If the user has already taken the personality test or doesn't want to, we provide an option to skip it altogether and just search for breweries based on the input location. 
 
-# Built with
+## Built with
+### API
+<ul>
+<li>Yelp API utilized to render brewery results based on the location input by the user.</li>
+<li>Giphy API used to add a gif with the results from the personality test</li> 
+</ul>
+
+<!-- Yelp is not compatible with CORS so JSON response was pulled from proxy website (CORS-anywhere heroku) with yelp search endpoint attached to it
+Yelp API passed through headers
+Data used in the ajaxCall to keep the url string neater
+UserInput used in on-click function so user can search any location and find breweries in that area
+Yelp API defaults a return of 20 businesses- used for loop to return only 12 results
+jQuery used to append results into card on html
+
+Giphy IDs used so specific gifs are attached with the specific results -->
+
+### Technologies Used
+
 
 The website uses the Giphy and Yelp APIS for a gif and brewery locator respectivley.
 Bootstrap, Materialize and Font-Awesome are used to layout the website as well as add buttons.
 
-# Features
+## Features
 
 The personality quiz chooses a beer you might like based on your personality.
 Yelp API is used to find nearby brewery's.
@@ -62,21 +84,6 @@ Calcualtes the openess by adding the fifth and tenth promps.
 Each trait's final weight can be scored from a possible 2 to 10.
 The highest trait is used to make the recommendation. Each trait is linked to a beer.
 
-
-
-
-# API
-   
-Two APIs used- Giphy and Yelp
-
-Yelp is not compatible with CORS so JSON response was pulled from proxy website (CORS-anywhere heroku) with yelp search endpoint attached to it
-Yelp API passed through headers
-Data used in the ajaxCall to keep the url string neater
-UserInput used in on-click function so user can search any location and find breweries in that area
-Yelp API defaults a return of 20 businesses- used for loop to return only 12 results
-jQuery used to append results into card on html
-
-Giphy IDs used so specific gifs are attached with the specific results
 
 # Credits
 
