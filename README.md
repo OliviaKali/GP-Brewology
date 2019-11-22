@@ -1,20 +1,20 @@
-#Brewology
+# Brewology
 
 Brewology offers beer you would like based on a personality test and also works as a brewery locator.
 
-#Built with
+# Built with
 
 The website uses the Giphy and Yelp APIS for a gif and brewery locator respectivley.
 Bootstrap, Materialize and Font-Awesome are used to layout the website as well as add buttons.
 
-#Features
+# Features
 
 The personality quiz chooses a beer you might like based on your personality.
 Yelp API is used to find nearby brewery's.
 
-#Code
+# Code
 
-   #landing
+   # landing
    
 Background image is set
 
@@ -24,7 +24,7 @@ Two columns with nothing that take up two columns each they are surrounding the 
 
 When the buttons "Location" and "Personality" are pressed they go to the same page. Personality brings you to the top of that page while location brings you to the bottom so the application so that the user screen displays the app they clicked on hthe top.   
  
-   #index
+   # index
    
 Materialize, bootstrap, and fontawesone are linked.
 
@@ -38,13 +38,13 @@ The next row with the personality test in it is made of one column using bootstr
 
 The containers at the bottom beneath the text display yelp results.
 
-   #personality
+   # personality
    
 Questions for the quiz are created and listed as promps. Each prompt is made to measure a certain trait and each of the prompt_values (answer options) are given a weight of 1,2,3,4, or 5.
 
 createPromptItems appends each question in a <p> tag placed in the ul with the quiz id.
 
-   #personalty-response
+   # personalty-response
    
 Calculates extraversion trait by adding the first and sixth prompts.
 Calculates agreeableness by adding the second and seventh prompt.
@@ -57,7 +57,7 @@ The highest trait is used to make the recommendation. Each trait is linked to a 
 
 
 
-   #Api
+# API
    
 Two APIs used- Giphy and Yelp
 
@@ -70,7 +70,7 @@ jQuery used to append results into card on html
 
 Giphy IDs used so specific gifs are attached with the specific results
 
-#Credits
+# Credits
 
 Emily Betz, Olivia Kalinowski, Will Stark, Vanessa de La Cuetara, Anthony Sambogna
  
