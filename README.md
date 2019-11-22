@@ -13,6 +13,8 @@ The User can take a quick five minute assessment that outlines the personality t
 <li>Neuroticism</li>
 </ol>
 
+The personality test results show which Big5 personality trait is dominant as well as recommend a beer that you might like based on that personality type.
+
 If the user has already taken the personality test or doesn't want to, we provide an option to skip it altogether and just search for breweries based on the input location. 
 
 ## Built with
@@ -36,10 +38,19 @@ Giphy IDs used so specific gifs are attached with the specific results -->
 Website developed with HTML, CSS, and JavaScript.
 Libraries used JQuery, Bootstrap, Materialize, and Font-Awesome.
 
-## Features
+## Team Roles
+
+HTML, CSS - Emily & William
+JavaScript - Vanessa & Olivia
+   Personality Test - Vanessa
+   APIs - Olivia
+
+Team collobrated well while combining code to ensure functionality. 
+
+<!-- ## Features
 
 The personality quiz chooses a beer you might like based on your personality.
-Yelp API is used to find nearby brewery's.
+Yelp API is used to find nearby brewery's. -->
 
 <!-- # Code
 
